@@ -9,11 +9,13 @@ there will be sections, and notes they will look like
 # This
 
 
-At times, you will be asked to copy and paste commands into the open window of your computer.  These will typically look like
+At times, you will be asked to copy and paste commands into the open window of your computer.  These will typically look like this:
 
 ```
-This:
+
 echo "Hello World"
 ```
 
+Expected outputs will look like:
+`Hello World`
 
