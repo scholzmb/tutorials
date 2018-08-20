@@ -18,5 +18,6 @@ echo "Hello World"
 
 Expected outputs will be highlighted like:
 
+```
 `Hello World`
-
+```
