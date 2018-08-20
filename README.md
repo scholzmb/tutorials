@@ -16,6 +16,7 @@ At times, you will be asked to copy and paste commands into the open window of y
 echo "Hello World"
 ```
 
-Expected outputs will look like:
-`Hello World`
+Expected outputs will be highlighted like:
+
+`Hello World
 
